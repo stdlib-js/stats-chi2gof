@@ -335,7 +335,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-chi2gof/main/LICENSE
 
-[@stdlib/ndarray/array]: https://github.com/stdlib-js/stdlib
+[@stdlib/ndarray/array]: https://github.com/stdlib-js/ndarray-array
 
 </section>
 
