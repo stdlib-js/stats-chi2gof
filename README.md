@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-chi2gof/tags). For example,
+
+```javascript
 import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.0.8-deno/mod.js';
 ```
 
@@ -242,7 +247,7 @@ var table = res.toString({
 ```javascript
 import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@deno/mod.js';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/mod.js';
-import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.0.8-deno/mod.js';
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@deno/mod.js';
 
 var N = 400;
 var lambda = 3.0;
