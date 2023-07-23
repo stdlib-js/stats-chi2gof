@@ -50,7 +50,7 @@ The [branches.md][branches-url] file summarizes the available branches and displ
 var chi2gof = require( '@stdlib/stats-chi2gof' );
 ```
 
-#### chi2gof( x, y\[, ...args]\[, opts] )
+#### chi2gof( x, y\[, ...args]\[, options] )
 
 Computes a chi-square goodness-of-fit test for the **null hypothesis** that the values of `x` come from the discrete probability distribution specified by `y`.
 
@@ -349,7 +349,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
