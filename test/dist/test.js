@@ -30,8 +30,8 @@ var chi2gof = require( './../../dist' );
 
 // FIXTURES //
 
-var counts = require( './../..xtures/r/counts.json' );
-var probs = require( './../..xtures/r/probs.json' );
+var counts = require( './../fixtures/r/counts.json' );
+var probs = require( './../fixtures/r/probs.json' );
 
 
 // TESTS //
