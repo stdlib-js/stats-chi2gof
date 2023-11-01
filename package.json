@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-incrspace": "^0.1.0",
-    "@stdlib/array-float64": "^0.1.0",
+    "@stdlib/array-float64": "^0.1.1",
     "@stdlib/assert-has-own-property": "^0.1.1",
     "@stdlib/assert-is-boolean": "^0.1.1",
     "@stdlib/assert-is-collection": "^0.1.0",
@@ -61,7 +61,7 @@
     "@stdlib/stats-base-dists-bernoulli-pmf": "^0.1.1",
     "@stdlib/stats-base-dists-binomial-pmf": "^0.1.0",
     "@stdlib/stats-base-dists-chisquare-cdf": "^0.1.0",
-    "@stdlib/stats-base-dists-discrete-uniform-pmf": "^0.1.0",
+    "@stdlib/stats-base-dists-discrete-uniform-pmf": "^0.1.1",
     "@stdlib/stats-base-dists-geometric-pmf": "^0.1.0",
     "@stdlib/stats-base-dists-hypergeometric-pmf": "^0.1.0",
     "@stdlib/stats-base-dists-negative-binomial-pmf": "^0.1.0",
@@ -72,12 +72,12 @@
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
   },
   "devDependencies": {
-    "@stdlib/array-int32": "^0.1.0",
+    "@stdlib/array-int32": "^0.1.1",
     "@stdlib/assert-contains": "^0.1.0",
     "@stdlib/assert-is-object": "^0.1.1",
     "@stdlib/bench": "^0.1.0",
     "@stdlib/constants-float64-eps": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
     "@stdlib/math-base-special-max": "^0.1.1",
     "@stdlib/random-base-discrete-uniform": "^0.1.0",
     "@stdlib/random-base-poisson": "^0.1.0",
