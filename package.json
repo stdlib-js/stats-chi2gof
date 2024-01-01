@@ -66,7 +66,7 @@
     "@stdlib/stats-base-dists-hypergeometric-pmf": "^0.1.0",
     "@stdlib/stats-base-dists-negative-binomial-pmf": "^0.1.0",
     "@stdlib/stats-base-dists-poisson-pmf": "^0.1.0",
-    "@stdlib/string-format": "^0.1.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.1.1",
     "@stdlib/types": "^0.2.0",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.1.1",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1"
