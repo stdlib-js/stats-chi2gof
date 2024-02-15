@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@deno/mod.js';
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.0-deno/mod.js';
 ```
 
 #### chi2gof( x, y\[, ...args]\[, options] )
@@ -253,7 +253,7 @@ var table = res.toString({
 ```javascript
 import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@deno/mod.js';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@deno/mod.js';
-import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@deno/mod.js';
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.0-deno/mod.js';
 
 var N = 400;
 var lambda = 3.0;
