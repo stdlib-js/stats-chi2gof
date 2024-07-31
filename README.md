@@ -44,6 +44,11 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
+chi2gof = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-chi2gof/tags). For example,
+
+```javascript
 chi2gof = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.2-umd/browser.js' )
 ```
 
@@ -56,7 +61,7 @@ var chi2gof = require( 'path/to/vendor/umd/stats-chi2gof/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.2-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -280,7 +285,7 @@ var table = res.toString({
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.2-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
