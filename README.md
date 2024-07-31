@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-chi2gof/tags). For example,
+
+```javascript
 import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.2-esm/index.mjs';
 ```
 
@@ -258,7 +263,7 @@ var table = res.toString({
 
 import poisson from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-poisson@esm/index.mjs';
 import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/index.mjs';
-import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@v0.2.2-esm/index.mjs';
+import chi2gof from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-chi2gof@esm/index.mjs';
 
 var N = 400;
 var lambda = 3.0;
