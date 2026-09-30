@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-18)
+## Unreleased (2026-09-30)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9966ca6`](https://github.com/stdlib-js/stdlib/commit/9966ca6cd1cd7d1f0b603e5a2e69a4584e60545f) - **test:** migrate `stats/chi2gof` to ULP-based assertions [(#15687)](https://github.com/stdlib-js/stdlib/pull/15687) _(by Athan Reines)_
 -   [`07ac89a`](https://github.com/stdlib-js/stdlib/commit/07ac89a6c739d7124170c7de9955609a14b4831b) - **chore:** fix JavaScript lint errors [(#13631)](https://github.com/stdlib-js/stdlib/pull/13631) _(by mantrapatel05)_
 -   [`e88fed7`](https://github.com/stdlib-js/stdlib/commit/e88fed78fbf6aaf1043cb4489e3af510007b5dd0) - **bench:** refactor to use string interpolation in `@stdlib/stats` [(#11396)](https:-/github.com/stdlib-js/stdlib/pull/11396) _(by Karan Anand)_
 -   [`bd60a20`](https://github.com/stdlib-js/stdlib/commit/bd60a209ca4b0989663edbbc591bc7da80294827) - **build:** update R version to 4.2.0 in lint workflows [(#11262)](https://github.com/stdlib-js/stdlib/pull/11262) _(by Mara Averick)_
@@ -38,8 +39,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Mara Averick
 -   mantrapatel05
